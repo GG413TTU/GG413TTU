@@ -1,4 +1,10 @@
 <h1>Howdy, I'm Greg Emesih! <br/> <a href="[https://www.linkedin.com/in/greggerald-emesih-a430a7243/]">Cybersecurity Professional</a>
+
+ <h1> About Me!</h1> 
+- 🌱 I’m currently learning Python, Powershell
+  - 🤔 I’m looking for help with Threat Intel 
+  - 📫 How to reach me: gregemesih13@gmail.com
+  - ⚡ Fun fact: I love learning languages and not coding languages
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
