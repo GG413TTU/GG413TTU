@@ -1,4 +1,4 @@
-<h1>Wazzup?!, I'm Greg <br/> <a href="[https://www.linkedin.com/in/greggerald-emesih-a430a7243/]">Cybersecurity Professional</a>
+<h1>Wazzup?!, I'm Greg! <br/> <a href="[https://www.linkedin.com/in/greggerald-emesih-a430a7243/]">Cybersecurity Professional</a>
 
 <p align="left">
   <ul>
