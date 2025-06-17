@@ -8,6 +8,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2> Certifications:</h2>
+
+  - [Google CyberSecurity Certificate](https://www.credly.com/badges/ea06f922-1870-4cf4-9d82-d4a67eb4bf43/linked_in_profile)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
