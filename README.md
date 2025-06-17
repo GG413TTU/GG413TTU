@@ -1,10 +1,15 @@
 <h1>Howdy, I'm Greg Emesih! <br/> <a href="[https://www.linkedin.com/in/greggerald-emesih-a430a7243/]">Cybersecurity Professional</a>
 
- <h1> About Me!</h1> 
-- 🌱 I’m currently learning Python, Powershell
-  - 🤔 I’m looking for help with Threat Intel 
-  - 📫 How to reach me: gregemesih13@gmail.com
-  - ⚡ Fun fact: I love learning languages and not coding languages
+<p align="left">
+  <ul>
+    <li>🌱 I’m currently learning <strong> Python, Powershell </strong> </li>
+    <li> 🤔 I’m looking for help with <strong> Threat Intel </strong></li>
+    <li>📫 How to reach me: <a href="gregemesih13@gmail.com">gregemesih13@gmail.com</a></li>
+    <li>⚡ Fun fact: I love learning languages and <strong> not just coding languages!</strong></li>
+  </ul>
+<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF"> -->
+</p>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
