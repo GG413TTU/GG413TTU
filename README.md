@@ -17,7 +17,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
-  - [AI-Powered Tic-Tac-Toe)]([https://github.com/GG413TTU/AITicTacToe])
+  - [AI-Powered Tic-Tac-Toe](https://github.com/GG413TTU/AITicTacToe)
 
 <h2> Certifications:</h2>
 
