@@ -17,11 +17,15 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab) > -->
 - <b>Python</b> 
+  - [Keylogger](https://github.com/GG413TTU/Keylogger)
+- <b>Python</b> 
   - [AI-Powered Tic-Tac-Toe](https://github.com/GG413TTU/AITicTacToe)
 
 <h2> Certifications:</h2>
 
   - [Google CyberSecurity Certificate](https://www.credly.com/badges/ea06f922-1870-4cf4-9d82-d4a67eb4bf43/linked_in_profile)
+
+  - [CompTIA Security+](https://www.credly.com/badges/4c88c2e1-8841-40cd-a372-7adf34b43998/linked_in_profile)
     
 <h2> 🤳 Connect with me:</h2>
 
